@@ -15,7 +15,7 @@ Minimal Level Editor for Godot using TileMaps.
 
 # Disclaimer:
 You can use this Asset in any possible way you want in your projects.
-It is licanced under MIT.Checkout "LICANCE" file for More Details.
+It is licanced under MIT.Checkout "https://github.com/samdaiya/ObjectLoader/blob/master/LICENSE" file for More Details.
 If you like this asset please leave star here: "https://github.com/samdaiya/ObjectLoader",
 Also dont forget to follow me on twitter at "https://twitter.com/sam_daiya".
 
