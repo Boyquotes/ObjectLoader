@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://TileSet.tres" type="TileSet" id=1]
+[ext_resource path="res://ObjectLoader.gd" type="Script" id=2]
+
+[node name="Main" type="Node2D"]
+
+[node name="ObjectLoader" type="TileMap" parent="."]
+tile_set = ExtResource( 1 )
+cell_size = Vector2( 8, 8 )
+cell_quadrant_size = 4
+format = 1
+tile_data = PoolIntArray( 131077, 1, 0, 131082, 1, 0, 262147, -1073741823, 0, 262149, 0, 0, 262154, 0, 0, 262156, -1610612735, 0, 393221, 1073741825, 0, 393226, 1073741825, 0 )
+script = ExtResource( 2 )
+obj_directory = "res://Objects"
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2( 64, 36 )
+current = true
