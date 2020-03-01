@@ -1,6 +1,10 @@
 # ObjectLoader
 Minimal Level Editor for Godot using TileMaps.
 
+# Demos
+[GameDemo](https://github.com/samdaiya/ObjectLoader/blob/master/GameDemo.gif)
+[EditorDemo](https://github.com/samdaiya/ObjectLoader/blob/master/EditorDemo.png)
+
 # Requirements:
 * Godot V3.X
 * Godot Scene with Tilemap in it. (Optional)
