@@ -18,7 +18,7 @@ Minimal Level Editor for Godot using TileMaps.
 * Assign Your "Objects" Directory(Folder) to  ObjectLoader Node using Inspector (Property: Obj_Dir).
 * Now Make New TileSet and create tiles with same name as your Objects, for example you have object with name Player.tscn then create tile with name "Player"
 * Now draw tiles in your Tilmap Scene and all the objects will be loaded inside your Scene under TilesetLoader Node.
-* You can checkout Demo Project for better understanding.
+* You can checkout OL_Demo.tscn for better understanding.
 
 # Disclaimer:
 * You can use this Asset in any possible way you want in your projects.
