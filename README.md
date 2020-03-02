@@ -6,7 +6,7 @@ Minimal Level Editor for Godot using TileMaps.
 ![EditorDemo](https://github.com/samdaiya/ObjectLoader/blob/master/EditorDemo.png)
 
 * Game Demo
-![GameDemo](https://github.com/samdaiya/ObjectLoader/blob/master/GameDemo.gif)
+![GameDemo](https://github.com/samdaiya/ObjectLoader/blob/master/GameDemo.png)
 
 # Requirements:
 * Godot V3.X
